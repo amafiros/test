@@ -13,6 +13,7 @@ namespace programes
             Console.WriteLine("Hello world!");
             Console.WriteLine("Hello world copy");
             Console.WriteLine("Hello world copy1");
+            Console.WriteLine("ave");
             Console.ReadKey();
         }
     }
